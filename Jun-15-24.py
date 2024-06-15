@@ -1,3 +1,4 @@
+import heapq
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
         l = [[y,x] for x,y in zip(profits,capital)]

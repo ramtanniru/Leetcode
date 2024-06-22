@@ -18,3 +18,4 @@ class Solution:
                 cnt += preArr[pre-k]
             preArr[pre] += 1
         return cnt
+    

@@ -25,3 +25,4 @@ class Solution:
             root.right = build(right)
             return root
         return build(arr) 
+    

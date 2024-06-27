@@ -9,3 +9,4 @@ class Solution:
             if len(adjV)==vertices-1:
                 return v
         return -1 
+    

@@ -36,3 +36,4 @@ class Solution:
         root = buildTree(TreeNode(p))
         
         return root 
+    

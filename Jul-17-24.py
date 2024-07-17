@@ -22,3 +22,4 @@ class Solution:
                 dfs(root.right,s,flag) 
         dfs(root,set(to_delete))
         return self.res 
+    

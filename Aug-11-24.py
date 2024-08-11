@@ -32,3 +32,4 @@ class Solution:
                         return 1
                     grid[i][j] = 1
         return 2 
+    

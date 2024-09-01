@@ -6,4 +6,5 @@ class Solution:
         for i in range(len(mat)):
             for j in range(len(mat[0])):
                 mat[i][j] = original[i*n+j]
-        return mat 
+        return mat
+ 

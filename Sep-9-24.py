@@ -37,5 +37,3 @@ class Solution:
                     curr = curr.next
             l += 1
         return mat 
-
-
